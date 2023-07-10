@@ -1,6 +1,6 @@
 //Double = É um tipo de variavel de valores reais, numeros com virgulas.
 //Expressar um numero com exponenciais! Numeros muito grnade!!
-//Limite do double está na precisão do limite dos numeros, (Numero de casas depois da virgula, 54 casas)
+//Limite do double está na precisão do limite dos numeros, (Numero de casas depois da virgula, 53 casas)
 
 
 void main(){
